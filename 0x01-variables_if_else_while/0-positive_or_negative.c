@@ -4,8 +4,14 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
+	/* code goes here */
 	int n;
 
 	srand(time(0));
@@ -21,7 +27,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d id negative\n", n);
+		printf("%d is negative\n", n);
 	}
 	return (0);
 }
