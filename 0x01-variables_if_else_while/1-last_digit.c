@@ -2,12 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/**
- * main - Prints the last digit of a randomly generated number.
- *
- * Return : Always 0
- */
+
 /* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
 	int n;
