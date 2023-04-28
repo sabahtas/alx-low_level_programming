@@ -2,7 +2,7 @@
 
 /**
  * _isupper - uppercase letters
- * @c: char to check the result
+ * @cr: char to check the result
  *
  * Return: 0 or 1
  */
